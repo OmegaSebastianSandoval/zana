@@ -1,0 +1,14 @@
+{
+  "name": "lightgallery",
+  "homepage": "https://github.com/sachinchoolur/lightGallery",
+  "version": "2.7.1",
+  "_release": "2.7.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "2.7.1",
+    "commit": "f8ca81c45684e21bf34151e9fc0ea238f61d23a1"
+  },
+  "_source": "https://github.com/sachinchoolur/lightGallery.git",
+  "_target": "^2.7.1",
+  "_originalSource": "lightgallery"
+}
